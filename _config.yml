@@ -1,41 +1,41 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: 
-reading_time:     true
+title:            Trial & Erlang
+description:      A blog about the informal aspects of my research
+disqus_shortname: https-baha-github-io
+reading_time:     false
 words_per_minute: 200
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: https://baha.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
-  email:          you@email.com
+  name:           Adrian Palacios
+  avatar:         adrian_torii_2016.jpg
+  bio:            "PhD student in Computer Science. I work on Programming Languages (mainly Erlang)."
+  email:          ukonat@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:       ukonat
   facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
+  github:        Baha
+  stackexchange: 
+  linkedin:      adpaco
+  instagram:     ukonat 
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 
 # Background image to be tiled on all pages
-background: 
+background: triangular.jpg
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics:   UA-63492795-2
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Madrid
 future:      false  # publish future dated posts --  true, false (default) 
 highlighter: rouge
 markdown:    kramdown
