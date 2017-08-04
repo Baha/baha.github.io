@@ -6,7 +6,7 @@ image:
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2017-08-03
+modified: 2017-08-04
 ---
 
 Hey there! I am Adrian Palacios, a PhD student in Computer Science from [Valencia](https://en.wikipedia.org/wiki/Valencia) working on Programming Languages (mainly [Erlang](https://www.erlang.org/)).
