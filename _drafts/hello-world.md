@@ -30,6 +30,14 @@ research, which are usually summarized or omitted in our papers. Here, I have
 the chance to discuss with a larger audience and collect feedback from both the
 professional and academic communities.
 
+My research focuses on the [Erlang programming
+language](https://www.erlang.org/).  The name of the blog, *Trial & Erlang*, is
+a reference to the "Trial & Error" method for solving problems.  This is the
+method I tend to use whenever we start a new Erlang project where I have to
+employ some library with little or no documentation at all (something too common
+in the life of an Erlang developer). Thus, I also intend to write some
+instructive posts, so that other users can profit from my experience.
+
 I hope that you enjoy my writing and the posts here are interesting to you. Do
 not miss the chance to comment, even if it's just to say "hi"!
 
