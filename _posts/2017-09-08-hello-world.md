@@ -10,8 +10,8 @@ image:
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
-Welcome to my blog! I am [Adrian]({{ site.baseurl }}{% link about/index.html
-%}), a PhD student from Valencia, Spain.
+Welcome to my blog! I am [Adrian]({{ site.baseurl }}{% link about/index.md %}),
+a PhD student from Valencia, Spain.
 
 It has been a long time since I wanted to start this blog, and I have finally
 found the time to set it up and write a few posts. I decided to begin working on
