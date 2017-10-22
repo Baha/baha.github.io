@@ -45,6 +45,7 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   # - jekyll-feed
+  - jemoji
 sass:
   sass_dir: _sass
   style: compressed
