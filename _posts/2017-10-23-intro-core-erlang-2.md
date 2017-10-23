@@ -2,7 +2,8 @@
 layout: post
 title: "A Gentle Introduction to Core Erlang: Part 2"
 description: "An introduction to the Core Erlang language."
-tags: [intro, core erlang, erlang, BEAM, compiler, program transformation]
+tags: [intro, core erlang, erlang, BEAM, compiler, program transformation,
+       metaprogramming, program instrumentation, program analysis]
 comments: true
 image:
   feature: abstract-1.jpg
